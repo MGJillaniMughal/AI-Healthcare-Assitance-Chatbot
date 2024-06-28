@@ -79,10 +79,15 @@ To set up and run this project locally, follow these steps:
 ## Project Structure
 
 ├── app.py # Main application file
+
 ├── requirements.txt # Required dependencies
+
 ├── .env # Environment variables file
+
 ├── LLM_DB/ # Directory containing PDF documents
+
 ├── faiss_index/ # Directory containing FAISS index and embeddings info
+
 ├── README.md # This readme file
 
 
